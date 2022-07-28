@@ -10,8 +10,6 @@
 
 For the basic setting of this work, please prepare datasets of Cityscapes, Stanford2D3D, and DensePASS.
 
-Our proposed DensePASS is available at [Google Drive](https://drive.google.com/file/d/1deXWKCKmo6ecsVcqxaCdESCSSclTlfze/view?usp=sharing).
-
 The DensePASS dataset has 100 panoramic images and annotations for evaluation.
 
 The other unlabeled images could be found at [WildPASS](https://github.com/elnino9ykl/WildPASS).
